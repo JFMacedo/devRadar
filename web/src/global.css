@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Muli:400,500&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+}
+
+html, body, #root {
+  height: 100%;
+}
+
+body {
+  background-color: #E5E6F0;
+  background-image: url('./logo-jean.png');
+  -webkit-font-smoothing: antialiased;
+}
+
+body, input, button {
+  font-family: 'Muli', sans-serif;
+}

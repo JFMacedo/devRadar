@@ -1,0 +1,15 @@
+aside {
+  width: 400px;
+  background: #FFFFFF;
+  box-shadow: 0 0 3px 0 rgba(125, 64, 231, 0.5);
+  border-radius: 3px;
+  padding: 30px 20px;
+}
+
+aside strong {
+  font-size: 20px;
+  text-align: center;
+  display: block;
+  color: #333333;
+  font-weight: 500;
+}
